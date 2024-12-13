@@ -1,3 +1,36 @@
 [2024-09-20 13:20:46,235: INFO: main: Welcome to the custom log]
 [2024-10-10 23:23:24,466: INFO: main: Welcome to the custom log]
 [2024-11-02 12:44:29,846: INFO: main: Welcome to the custom log]
+[2024-12-14 04:24:30,117: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-14 04:24:30,125: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-14 04:25:55,627: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-12-14 04:25:55,630: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-12-14 04:25:55,632: INFO: common: created directory at: artifacts]
+[2024-12-14 04:25:55,635: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-12-14 04:25:58,650: INFO: 1434958058: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 60AE:5B804:9DF02:C5ADB:675CBB7C
+Accept-Ranges: bytes
+Date: Fri, 13 Dec 2024 22:55:57 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10230-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1734130557.120541,VS0,VE618
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: c3467eee0fcbf8a3d968e33d8a53f0f0e2dd3b58
+Expires: Fri, 13 Dec 2024 23:00:57 GMT
+Source-Age: 0
+
+]
